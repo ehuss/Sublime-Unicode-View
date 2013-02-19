@@ -1,0 +1,13 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[
+			{
+				"caption": "Unicode View",
+				"id": "unicode_view",
+				"command": "unicode_view"
+			}
+		]
+	}
+]
